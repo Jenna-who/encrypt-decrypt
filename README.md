@@ -6,7 +6,7 @@
 <ul>
     <li>🌱 I’m currently learning <strong>cybersecurity, especially in extensive domains including web application and forensic</strong></li>
     <li>📫 How to reach me: <strong><a href="mailto:tmvhs1346@naver.com">tmvhs1346@naver.com</a></strong></li>
-    <li>📄 Know about my experiences: <strong><a href="https://www.linkedin.com/in/jenna-l-a4519910a" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></strong></li>
+    <li>📄 Know about my experiences: <strong><a href="www.linkedin.com/in/jenna-l-a4519910a" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></strong></li>
 </ul>
 
 
